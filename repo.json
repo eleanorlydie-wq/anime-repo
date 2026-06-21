@@ -1,8 +1,8 @@
 {
     "meta": {
-      "name": "Yūzōnō",
-      "shortName": "Yūzōnō",
-      "website": "https://github.com/yuzono/anime-extensions",
-      "signingKeyFingerprint": "cbec121aa82ebb02aaa73806992e0368a97d47b5451ed6524816d03084c45905"
+      "name": "Anime Extensions Revived",
+      "shortName": "Anime Revived",
+      "website": "https://github.com/eleanorlydie-wq/anime-extensions-source-revived",
+      "signingKeyFingerprint": "18693ed8080183f157508e909c33baf3ae64db8cfff13640dfbd68984a3eb023"
     }
-  }
+}
