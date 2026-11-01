@@ -146,10 +146,10 @@
   {
     "name": "Aniyomi: Hentai Torrent (Torrent)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.hentaitorrent",
-    "apk": "aniyomi-all.hentaitorrent-v14.8.apk",
+    "apk": "aniyomi-all.hentaitorrent-v14.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
@@ -578,10 +578,10 @@
   {
     "name": "Aniyomi: PTorrent (Torrent)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.ptorrent",
-    "apk": "aniyomi-all.ptorrent-v14.6.apk",
+    "apk": "aniyomi-all.ptorrent-v14.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "sources": [
       {
@@ -1606,10 +1606,10 @@
   {
     "name": "Aniyomi: hanime.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.hanime",
-    "apk": "aniyomi-en.hanime-v14.25.apk",
+    "apk": "aniyomi-en.hanime-v14.26.apk",
     "lang": "en",
-    "code": 25,
-    "version": "14.25",
+    "code": 26,
+    "version": "14.26",
     "nsfw": 1,
     "sources": [
       {
