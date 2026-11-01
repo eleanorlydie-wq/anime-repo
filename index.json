@@ -38,10 +38,10 @@
   {
     "name": "Aniyomi: AnimeXin",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animexin",
-    "apk": "aniyomi-all.animexin-v14.26.apk",
+    "apk": "aniyomi-all.animexin-v14.27.apk",
     "lang": "all",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 0,
     "sources": [
       {
@@ -56,10 +56,10 @@
   {
     "name": "Aniyomi: AniZone",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.anizone",
-    "apk": "aniyomi-all.anizone-v14.11.apk",
+    "apk": "aniyomi-all.anizone-v14.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
@@ -282,10 +282,10 @@
   {
     "name": "Aniyomi: MissAV",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.missav",
-    "apk": "aniyomi-all.missav-v14.25.apk",
+    "apk": "aniyomi-all.missav-v14.26.apk",
     "lang": "all",
-    "code": 25,
-    "version": "14.25",
+    "code": 26,
+    "version": "14.26",
     "nsfw": 1,
     "sources": [
       {
@@ -553,24 +553,24 @@
   {
     "name": "Aniyomi: Nyaa (Torrent)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.nyaatorrent",
-    "apk": "aniyomi-all.nyaatorrent-v14.4.apk",
+    "apk": "aniyomi-all.nyaatorrent-v14.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "sources": [
       {
         "name": "Nyaa (Torrent)",
         "lang": "all",
         "id": "5310001068353260432",
-        "baseUrl": "https://nyaa.si/",
+        "baseUrl": "https://nyaa.si",
         "versionId": 1
       },
       {
         "name": "Nyaa Sukebein (Torrent)",
         "lang": "all",
         "id": "9136480360798112194",
-        "baseUrl": "https://sukebei.nyaa.si/",
+        "baseUrl": "https://sukebei.nyaa.si",
         "versionId": 1
       }
     ]
@@ -710,10 +710,10 @@
   {
     "name": "Aniyomi: Subsplease",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.subsplease",
-    "apk": "aniyomi-all.subsplease-v14.6.apk",
+    "apk": "aniyomi-all.subsplease-v14.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "sources": [
       {
@@ -760,10 +760,10 @@
   {
     "name": "Aniyomi: Torrentio (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentio",
-    "apk": "aniyomi-all.torrentio-v14.7.apk",
+    "apk": "aniyomi-all.torrentio-v14.8.apk",
     "lang": "all",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
@@ -778,10 +778,10 @@
   {
     "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentioanime",
-    "apk": "aniyomi-all.torrentioanime-v14.18.apk",
+    "apk": "aniyomi-all.torrentioanime-v14.19.apk",
     "lang": "all",
-    "code": 18,
-    "version": "14.18",
+    "code": 19,
+    "version": "14.19",
     "nsfw": 0,
     "sources": [
       {
@@ -832,10 +832,10 @@
   {
     "name": "Aniyomi: Anime4up",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.anime4up",
-    "apk": "aniyomi-ar.anime4up-v14.77.apk",
+    "apk": "aniyomi-ar.anime4up-v14.78.apk",
     "lang": "ar",
-    "code": 77,
-    "version": "14.77",
+    "code": 78,
+    "version": "14.78",
     "nsfw": 0,
     "sources": [
       {
@@ -886,17 +886,17 @@
   {
     "name": "Aniyomi: Animerco",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.animerco",
-    "apk": "aniyomi-ar.animerco-v14.57.apk",
+    "apk": "aniyomi-ar.animerco-v14.58.apk",
     "lang": "ar",
-    "code": 57,
-    "version": "14.57",
+    "code": 58,
+    "version": "14.58",
     "nsfw": 0,
     "sources": [
       {
         "name": "Animerco",
         "lang": "ar",
         "id": "4435835034990361158",
-        "baseUrl": "https://zeta.animerco.org",
+        "baseUrl": "https://eva.animerco.org",
         "versionId": 1
       }
     ]
@@ -958,17 +958,17 @@
   {
     "name": "Aniyomi: Cimaleek",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.cimaleek",
-    "apk": "aniyomi-ar.cimaleek-v14.10.apk",
+    "apk": "aniyomi-ar.cimaleek-v14.11.apk",
     "lang": "ar",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "sources": [
       {
         "name": "سيما ليك",
         "lang": "ar",
         "id": "9014633682469494124",
-        "baseUrl": "https://m.cimaleek.to",
+        "baseUrl": "https://m.cimaleek.pw",
         "versionId": 1
       }
     ]
@@ -1012,17 +1012,17 @@
   {
     "name": "Aniyomi: Okanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.okanime",
-    "apk": "aniyomi-ar.okanime-v14.26.apk",
+    "apk": "aniyomi-ar.okanime-v14.27.apk",
     "lang": "ar",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 0,
     "sources": [
       {
         "name": "Okanime",
         "lang": "ar",
         "id": "2275740574829569178",
-        "baseUrl": "https://www.okanime.xyz",
+        "baseUrl": "https://ww3.okanime.xyz",
         "versionId": 1
       }
     ]
@@ -1138,10 +1138,10 @@
   {
     "name": "Aniyomi: AniWorld",
     "pkg": "eu.kanade.tachiyomi.animeextension.de.aniworld",
-    "apk": "aniyomi-de.aniworld-v14.39.apk",
+    "apk": "aniyomi-de.aniworld-v14.40.apk",
     "lang": "de",
-    "code": 39,
-    "version": "14.39",
+    "code": 40,
+    "version": "14.40",
     "nsfw": 0,
     "sources": [
       {
@@ -1156,10 +1156,10 @@
   {
     "name": "Aniyomi: FilmPalast",
     "pkg": "eu.kanade.tachiyomi.animeextension.de.filmpalast",
-    "apk": "aniyomi-de.filmpalast-v14.27.apk",
+    "apk": "aniyomi-de.filmpalast-v14.28.apk",
     "lang": "de",
-    "code": 27,
-    "version": "14.27",
+    "code": 28,
+    "version": "14.28",
     "nsfw": 0,
     "sources": [
       {
@@ -1264,10 +1264,10 @@
   {
     "name": "Aniyomi: AllAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.allanime",
-    "apk": "aniyomi-en.allanime-v14.56.apk",
+    "apk": "aniyomi-en.allanime-v14.57.apk",
     "lang": "en",
-    "code": 56,
-    "version": "14.56",
+    "code": 57,
+    "version": "14.57",
     "nsfw": 0,
     "sources": [
       {
@@ -1352,6 +1352,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeHeaven",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.animeheaven",
+    "apk": "aniyomi-en.animeheaven-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimeHeaven",
+        "lang": "en",
+        "id": "8357740258782507555",
+        "baseUrl": "https://animeheaven.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimeKhor",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animekhor",
     "apk": "aniyomi-en.animekhor-v14.24.apk",
@@ -1372,10 +1390,10 @@
   {
     "name": "Aniyomi: Animenosub",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animenosub",
-    "apk": "aniyomi-en.animenosub-v14.28.apk",
+    "apk": "aniyomi-en.animenosub-v14.29.apk",
     "lang": "en",
-    "code": 28,
-    "version": "14.28",
+    "code": 29,
+    "version": "14.29",
     "nsfw": 1,
     "sources": [
       {
@@ -1408,10 +1426,10 @@
   {
     "name": "Aniyomi: AnimeParadise",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animeparadise",
-    "apk": "aniyomi-en.animeparadise-v14.2.apk",
+    "apk": "aniyomi-en.animeparadise-v14.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
@@ -1624,10 +1642,10 @@
   {
     "name": "Aniyomi: HexaWatch",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.hexawatch",
-    "apk": "aniyomi-en.hexawatch-v14.6.apk",
+    "apk": "aniyomi-en.hexawatch-v14.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "sources": [
       {
@@ -1642,10 +1660,10 @@
   {
     "name": "Aniyomi: Hstream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.hstream",
-    "apk": "aniyomi-en.hstream-v14.13.apk",
+    "apk": "aniyomi-en.hstream-v14.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "14.13",
+    "code": 14,
+    "version": "14.14",
     "nsfw": 1,
     "sources": [
       {
@@ -1654,6 +1672,24 @@
         "id": "8733115911403916257",
         "baseUrl": "https://hstream.moe",
         "versionId": 2
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: JustAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.justanime",
+    "apk": "aniyomi-en.justanime-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "JustAnime",
+        "lang": "en",
+        "id": "7830536598197422236",
+        "baseUrl": "https://justanime.to",
+        "versionId": 1
       }
     ]
   },
@@ -1696,10 +1732,10 @@
   {
     "name": "Aniyomi: KickAssAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kickassanime",
-    "apk": "aniyomi-en.kickassanime-v14.61.apk",
+    "apk": "aniyomi-en.kickassanime-v14.62.apk",
     "lang": "en",
-    "code": 61,
-    "version": "14.61",
+    "code": 62,
+    "version": "14.62",
     "nsfw": 0,
     "sources": [
       {
@@ -1750,10 +1786,10 @@
   {
     "name": "Aniyomi: KissKH",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kisskh",
-    "apk": "aniyomi-en.kisskh-v14.5.apk",
+    "apk": "aniyomi-en.kisskh-v14.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 1,
     "sources": [
       {
@@ -1786,17 +1822,17 @@
   {
     "name": "Aniyomi: Mapple",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.mapple",
-    "apk": "aniyomi-en.mapple-v14.3.apk",
+    "apk": "aniyomi-en.mapple-v14.4.apk",
     "lang": "en",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "sources": [
       {
         "name": "Mapple",
         "lang": "en",
         "id": "4419717598017841435",
-        "baseUrl": "https://mapple.uk",
+        "baseUrl": "https://mapple.fun",
         "versionId": 1
       }
     ]
@@ -1840,10 +1876,10 @@
   {
     "name": "Aniyomi: Myanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.myanime",
-    "apk": "aniyomi-en.myanime-v14.16.apk",
+    "apk": "aniyomi-en.myanime-v14.17.apk",
     "lang": "en",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 0,
     "sources": [
       {
@@ -1930,10 +1966,10 @@
   {
     "name": "Aniyomi: Oppai Stream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.oppaistream",
-    "apk": "aniyomi-en.oppaistream-v14.6.apk",
+    "apk": "aniyomi-en.oppaistream-v14.7.apk",
     "lang": "en",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "sources": [
       {
@@ -1966,10 +2002,10 @@
   {
     "name": "Aniyomi: Rule34Video",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.rule34video",
-    "apk": "aniyomi-en.rule34video-v14.13.apk",
+    "apk": "aniyomi-en.rule34video-v14.14.apk",
     "lang": "en",
-    "code": 13,
-    "version": "14.13",
+    "code": 14,
+    "version": "14.14",
     "nsfw": 1,
     "sources": [
       {
@@ -2002,17 +2038,17 @@
   {
     "name": "Aniyomi: UHD Movies",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.uhdmovies",
-    "apk": "aniyomi-en.uhdmovies-v14.21.apk",
+    "apk": "aniyomi-en.uhdmovies-v14.22.apk",
     "lang": "en",
-    "code": 21,
-    "version": "14.21",
+    "code": 22,
+    "version": "14.22",
     "nsfw": 0,
     "sources": [
       {
         "name": "UHD Movies",
         "lang": "en",
         "id": "582068848290425167",
-        "baseUrl": "https://uhdmovies.my",
+        "baseUrl": "https://uhdmovies.beauty",
         "versionId": 1
       }
     ]
@@ -2020,10 +2056,10 @@
   {
     "name": "Aniyomi: UniqueStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.uniquestream",
-    "apk": "aniyomi-en.uniquestream-v14.5.apk",
+    "apk": "aniyomi-en.uniquestream-v14.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "sources": [
       {
@@ -2146,10 +2182,10 @@
   {
     "name": "Aniyomi: AnimeAv1",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeav1",
-    "apk": "aniyomi-es.animeav1-v14.4.apk",
+    "apk": "aniyomi-es.animeav1-v14.5.apk",
     "lang": "es",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "sources": [
       {
@@ -2164,17 +2200,17 @@
   {
     "name": "Aniyomi: AnimeFenix",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animefenix",
-    "apk": "aniyomi-es.animefenix-v14.74.apk",
+    "apk": "aniyomi-es.animefenix-v14.75.apk",
     "lang": "es",
-    "code": 74,
-    "version": "14.74",
+    "code": 75,
+    "version": "14.75",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeFenix",
         "lang": "es",
         "id": "1901838936011764172",
-        "baseUrl": "https://animefenix2.tv",
+        "baseUrl": "https://tvanime.tv",
         "versionId": 1
       }
     ]
@@ -2254,10 +2290,10 @@
   {
     "name": "Aniyomi: AnimeMovil",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animemovil",
-    "apk": "aniyomi-es.animemovil-v14.47.apk",
+    "apk": "aniyomi-es.animemovil-v14.48.apk",
     "lang": "es",
-    "code": 47,
-    "version": "14.47",
+    "code": 48,
+    "version": "14.48",
     "nsfw": 0,
     "sources": [
       {
@@ -2290,17 +2326,17 @@
   {
     "name": "Aniyomi: AnimeOnline.Ninja",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeonlineninja",
-    "apk": "aniyomi-es.animeonlineninja-v14.63.apk",
+    "apk": "aniyomi-es.animeonlineninja-v14.64.apk",
     "lang": "es",
-    "code": 63,
-    "version": "14.63",
+    "code": 64,
+    "version": "14.64",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeOnline.Ninja",
         "lang": "es",
         "id": "2765997893095141044",
-        "baseUrl": "https://ver.animeonline.ninja",
+        "baseUrl": "https://ver2.animeonline.ninja",
         "versionId": 1
       }
     ]
@@ -2380,17 +2416,17 @@
   {
     "name": "Aniyomi: CineCalidad",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.cinecalidad",
-    "apk": "aniyomi-es.cinecalidad-v14.34.apk",
+    "apk": "aniyomi-es.cinecalidad-v14.35.apk",
     "lang": "es",
-    "code": 34,
-    "version": "14.34",
+    "code": 35,
+    "version": "14.35",
     "nsfw": 0,
     "sources": [
       {
         "name": "CineCalidad",
         "lang": "es",
         "id": "661928073480792687",
-        "baseUrl": "https://www.cinecalidad.ec",
+        "baseUrl": "https://www.cinecalidad.am",
         "versionId": 1
       }
     ]
@@ -3006,10 +3042,10 @@
   {
     "name": "Aniyomi: VeoHentai",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.veohentai",
-    "apk": "aniyomi-es.veohentai-v14.1.apk",
+    "apk": "aniyomi-es.veohentai-v14.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 1,
     "sources": [
       {
@@ -3168,10 +3204,10 @@
   {
     "name": "Aniyomi: FRAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.franime",
-    "apk": "aniyomi-fr.franime-v14.28.apk",
+    "apk": "aniyomi-fr.franime-v14.29.apk",
     "lang": "fr",
-    "code": 28,
-    "version": "14.28",
+    "code": 29,
+    "version": "14.29",
     "nsfw": 1,
     "sources": [
       {
@@ -3276,17 +3312,17 @@
   {
     "name": "Aniyomi: VoirCartoon",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.voircartoon",
-    "apk": "aniyomi-fr.voircartoon-v14.19.apk",
+    "apk": "aniyomi-fr.voircartoon-v14.20.apk",
     "lang": "fr",
-    "code": 19,
-    "version": "14.19",
+    "code": 20,
+    "version": "14.20",
     "nsfw": 1,
     "sources": [
       {
         "name": "VoirCartoon",
         "lang": "fr",
         "id": "6593176551595101740",
-        "baseUrl": "https://voircartoon.fr",
+        "baseUrl": "https://www.voircartoon.fr",
         "versionId": 1
       }
     ]
@@ -3348,10 +3384,10 @@
   {
     "name": "Aniyomi: AnimeIndo",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
-    "apk": "aniyomi-id.animeindo-v14.30.apk",
+    "apk": "aniyomi-id.animeindo-v14.31.apk",
     "lang": "id",
-    "code": 30,
-    "version": "14.30",
+    "code": 31,
+    "version": "14.31",
     "nsfw": 0,
     "sources": [
       {
@@ -3366,17 +3402,17 @@
   {
     "name": "Aniyomi: Kuramanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
-    "apk": "aniyomi-id.kuramanime-v14.22.apk",
+    "apk": "aniyomi-id.kuramanime-v14.23.apk",
     "lang": "id",
-    "code": 22,
-    "version": "14.22",
+    "code": 23,
+    "version": "14.23",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kuramanime",
         "lang": "id",
         "id": "4677878836897500878",
-        "baseUrl": "https://v8.kuramanime.tel",
+        "baseUrl": "https://v20.kuramanime.ing",
         "versionId": 1
       }
     ]
@@ -3384,17 +3420,17 @@
   {
     "name": "Aniyomi: Kuronime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuronime",
-    "apk": "aniyomi-id.kuronime-v14.13.apk",
+    "apk": "aniyomi-id.kuronime-v14.14.apk",
     "lang": "id",
-    "code": 13,
-    "version": "14.13",
+    "code": 14,
+    "version": "14.14",
     "nsfw": 0,
     "sources": [
       {
         "name": "Kuronime",
         "lang": "id",
         "id": "2083695115646974607",
-        "baseUrl": "https://tv1.kuronime.vip",
+        "baseUrl": "https://kuronime.net",
         "versionId": 1
       }
     ]
@@ -3420,10 +3456,10 @@
   {
     "name": "Aniyomi: NimeGami",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.nimegami",
-    "apk": "aniyomi-id.nimegami-v14.7.apk",
+    "apk": "aniyomi-id.nimegami-v14.8.apk",
     "lang": "id",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
@@ -3492,17 +3528,17 @@
   {
     "name": "Aniyomi: AnimeUnity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeunity",
-    "apk": "aniyomi-it.animeunity-v14.9.apk",
+    "apk": "aniyomi-it.animeunity-v14.10.apk",
     "lang": "it",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeUnity",
         "lang": "it",
         "id": "7762808921754601430",
-        "baseUrl": "https://www.animeunity.so",
+        "baseUrl": "https://www.animeunity.co",
         "versionId": 1
       }
     ]
@@ -3564,10 +3600,10 @@
   {
     "name": "Aniyomi: VVVVID",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.vvvvid",
-    "apk": "aniyomi-it.vvvvid-v14.1.apk",
+    "apk": "aniyomi-it.vvvvid-v14.2.apk",
     "lang": "it",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
@@ -3582,10 +3618,10 @@
   {
     "name": "Aniyomi: Aniweek",
     "pkg": "eu.kanade.tachiyomi.animeextension.ko.aniweek",
-    "apk": "aniyomi-ko.aniweek-v14.18.apk",
+    "apk": "aniyomi-ko.aniweek-v14.19.apk",
     "lang": "ko",
-    "code": 18,
-    "version": "14.18",
+    "code": 19,
+    "version": "14.19",
     "nsfw": 0,
     "sources": [
       {
@@ -3690,10 +3726,10 @@
   {
     "name": "Aniyomi: AnimeIto",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeito",
-    "apk": "aniyomi-pt.animeito-v14.7.apk",
+    "apk": "aniyomi-pt.animeito-v14.8.apk",
     "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "sources": [
       {
@@ -3726,17 +3762,17 @@
   {
     "name": "Aniyomi: AnimePlayer",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeplayer",
-    "apk": "aniyomi-pt.animeplayer-v14.10.apk",
+    "apk": "aniyomi-pt.animeplayer-v14.11.apk",
     "lang": "pt-BR",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 1,
     "sources": [
       {
         "name": "AnimePlayer",
         "lang": "pt-BR",
         "id": "6456382572881676651",
-        "baseUrl": "https://animeplayer.com.br",
+        "baseUrl": "https://anreyalp.vip",
         "versionId": 1
       }
     ]
@@ -3744,17 +3780,17 @@
   {
     "name": "Aniyomi: AnimeQ",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeq",
-    "apk": "aniyomi-pt.animeq-v14.6.apk",
+    "apk": "aniyomi-pt.animeq-v14.7.apk",
     "lang": "pt-BR",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "sources": [
       {
         "name": "AnimeQ",
         "lang": "pt-BR",
         "id": "3666901064696818585",
-        "baseUrl": "https://animeq.net",
+        "baseUrl": "https://animeq.cloud",
         "versionId": 1
       }
     ]
@@ -3762,10 +3798,10 @@
   {
     "name": "Aniyomi: Animes Digital",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdigital",
-    "apk": "aniyomi-pt.animesdigital-v14.9.apk",
+    "apk": "aniyomi-pt.animesdigital-v14.10.apk",
     "lang": "pt-BR",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "sources": [
       {
@@ -3780,17 +3816,17 @@
   {
     "name": "Aniyomi: AnimesDrive",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdrive",
-    "apk": "aniyomi-pt.animesdrive-v14.8.apk",
+    "apk": "aniyomi-pt.animesdrive-v14.9.apk",
     "lang": "pt-BR",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
         "name": "Animes Drive",
         "lang": "pt-BR",
         "id": "6170414613821552199",
-        "baseUrl": "https://animesdrive.online",
+        "baseUrl": "https://animesdrive.cloud",
         "versionId": 1
       }
     ]
@@ -4104,10 +4140,10 @@
   {
     "name": "Aniyomi: Animelib",
     "pkg": "eu.kanade.tachiyomi.animeextension.ru.animelib",
-    "apk": "aniyomi-ru.animelib-v14.15.apk",
+    "apk": "aniyomi-ru.animelib-v14.16.apk",
     "lang": "ru",
-    "code": 15,
-    "version": "14.15",
+    "code": 16,
+    "version": "14.16",
     "nsfw": 1,
     "sources": [
       {
@@ -4237,17 +4273,17 @@
   {
     "name": "Aniyomi: HDFilmCehennemi",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi",
-    "apk": "aniyomi-tr.hdfilmcehennemi-v14.33.apk",
+    "apk": "aniyomi-tr.hdfilmcehennemi-v14.34.apk",
     "lang": "tr",
-    "code": 33,
-    "version": "14.33",
+    "code": 34,
+    "version": "14.34",
     "nsfw": 1,
     "sources": [
       {
         "name": "HDFilmCehennemi",
         "lang": "tr",
         "id": "7053678650145882822",
-        "baseUrl": "https://www.hdfilmcehennemi.now",
+        "baseUrl": "https://www.hdfilmcehennemi.land",
         "versionId": 1
       }
     ]
@@ -4291,17 +4327,17 @@
   {
     "name": "Aniyomi: TR Anime Izle",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.tranimeizle",
-    "apk": "aniyomi-tr.tranimeizle-v14.35.apk",
+    "apk": "aniyomi-tr.tranimeizle-v14.36.apk",
     "lang": "tr",
-    "code": 35,
-    "version": "14.35",
+    "code": 36,
+    "version": "14.36",
     "nsfw": 0,
     "sources": [
       {
         "name": "TR Anime Izle",
         "lang": "tr",
         "id": "2607995207802293539",
-        "baseUrl": "https://www.tranimeizle.io",
+        "baseUrl": "https://www.tranimeizle.live",
         "versionId": 1
       }
     ]
@@ -4453,17 +4489,17 @@
   {
     "name": "Aniyomi: Xfani",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
-    "apk": "aniyomi-zh.xfani-v14.8.apk",
+    "apk": "aniyomi-zh.xfani-v14.9.apk",
     "lang": "zh",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "sources": [
       {
         "name": "稀饭动漫",
         "lang": "zh",
         "id": "8868273686324481907",
-        "baseUrl": "https://anime.xifanacg.com",
+        "baseUrl": "https://next.xifanacg.com",
         "versionId": 1
       }
     ]
@@ -4471,17 +4507,17 @@
   {
     "name": "Aniyomi: Xiaoxintv",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.xiaoxintv",
-    "apk": "aniyomi-zh.xiaoxintv-v14.1.apk",
+    "apk": "aniyomi-zh.xiaoxintv-v14.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
         "name": "小宝影院",
         "lang": "zh",
         "id": "7859804793032054884",
-        "baseUrl": "https://xiaoxintv.cc",
+        "baseUrl": "https://ibaotv.com",
         "versionId": 1
       }
     ]
