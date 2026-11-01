@@ -2450,31 +2450,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Cuevana",
-    "pkg": "eu.kanade.tachiyomi.animeextension.es.cuevana",
-    "apk": "aniyomi-es.cuevana-v14.64.apk",
-    "lang": "es",
-    "code": 64,
-    "version": "14.64",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Cuevana3Ch",
-        "lang": "es",
-        "id": "8064568253800947423",
-        "baseUrl": "https://ww1.cuevana3.ch",
-        "versionId": 1
-      },
-      {
-        "name": "Cuevana3Eu",
-        "lang": "es",
-        "id": "1487248605713977697",
-        "baseUrl": "https://www.cuevana3.eu",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: DeTodoPeliculas",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.detodopeliculas",
     "apk": "aniyomi-es.detodopeliculas-v14.22.apk",
@@ -3130,24 +3105,6 @@
     ]
   },
   {
-    "name": "Aniyomi: zeroanime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.es.zeroanime",
-    "apk": "aniyomi-es.zeroanime-v14.13.apk",
-    "lang": "es",
-    "code": 13,
-    "version": "14.13",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "zeroanime",
-        "lang": "es",
-        "id": "2089287837152010776",
-        "baseUrl": "https://www4.zeroanime.xyz",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Zonaleros",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.zonaleros",
     "apk": "aniyomi-es.zonaleros-v14.17.apk",
@@ -3251,42 +3208,6 @@
         "lang": "fr",
         "id": "3206613581297348563",
         "baseUrl": "https://on1.hds.quest",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: JetAnime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.fr.jetanime",
-    "apk": "aniyomi-fr.jetanime-v14.22.apk",
-    "lang": "fr",
-    "code": 22,
-    "version": "14.22",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "JetAnime",
-        "lang": "fr",
-        "id": "8914615515692839881",
-        "baseUrl": "https://ssl.jetanimes.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: MyKdrama",
-    "pkg": "eu.kanade.tachiyomi.animeextension.fr.mykdrama",
-    "apk": "aniyomi-fr.mykdrama-v14.16.apk",
-    "lang": "fr",
-    "code": 16,
-    "version": "14.16",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "MyKdrama",
-        "lang": "fr",
-        "id": "7657190496536415953",
-        "baseUrl": "https://mykdrama.co",
         "versionId": 1
       }
     ]
@@ -3634,24 +3555,6 @@
     ]
   },
   {
-    "name": "Aniyomi: desu-online",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pl.desuonline",
-    "apk": "aniyomi-pl.desuonline-v14.17.apk",
-    "lang": "pl",
-    "code": 17,
-    "version": "14.17",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "desu-online",
-        "lang": "pl",
-        "id": "5996410160070658951",
-        "baseUrl": "https://desu-online.pl",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Docchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.pl.docchi",
     "apk": "aniyomi-pl.docchi-v14.13.apk",
@@ -3683,24 +3586,6 @@
         "lang": "pl",
         "id": "1174869729090616971",
         "baseUrl": "https://ogladajanime.pl",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Anikyuu",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.anikyuu",
-    "apk": "aniyomi-pt.anikyuu-v14.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Anikyuu",
-        "lang": "pt-BR",
-        "id": "4361637123039891722",
-        "baseUrl": "https://anikyuu.to",
         "versionId": 1
       }
     ]
@@ -3882,24 +3767,6 @@
         "id": "533096643049014020",
         "baseUrl": "https://animesonline.blue",
         "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimesROLL",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
-    "apk": "aniyomi-pt.animesroll-v14.11.apk",
-    "lang": "pt-BR",
-    "code": 11,
-    "version": "14.11",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Animes ROLL",
-        "lang": "pt-BR",
-        "id": "734961575978606843",
-        "baseUrl": "https://anroll.plus",
-        "versionId": 2
       }
     ]
   },
@@ -4338,24 +4205,6 @@
         "lang": "tr",
         "id": "2607995207802293539",
         "baseUrl": "https://www.tranimeizle.live",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Türk Anime TV",
-    "pkg": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
-    "apk": "aniyomi-tr.turkanime-v14.50.apk",
-    "lang": "tr",
-    "code": 50,
-    "version": "14.50",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Türk Anime TV",
-        "lang": "tr",
-        "id": "1539162878022626585",
-        "baseUrl": "https://www.turkanime.tv",
         "versionId": 1
       }
     ]
